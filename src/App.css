@@ -1,7 +1,6 @@
 .App {
   justify-content: center;
   text-align: center;
-  
 }
 
 .App-logo {
@@ -9,4 +8,30 @@
   pointer-events: none;
 }
 
+h1 {
+  font-family:
+    Copperplate,
+    Copperplate Gothic Light,
+    fantasy;
+}
 
+h2 {
+  font-family:
+    Copperplate,
+    Copperplate Gothic Light,
+    fantasy;
+}
+
+h3 {
+  font-family:
+    Copperplate,
+    Copperplate Gothic Light,
+    fantasy;
+}
+
+h4 {
+  font-family:
+    Copperplate,
+    Copperplate Gothic Light,
+    fantasy;
+}
